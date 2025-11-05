@@ -1,5 +1,5 @@
 # Lucci Labs
 
-> *A playground for ************************Web3************************ / ************************Crypto************************ / ************************DeFi************************ R\&D.*
+> *Money, made intelligently.*
 
-If you’re afraid of the occasional rug pull on your expectations, fork—don’t clone.
+Powering a new generation of creators, builders, and businesses.
